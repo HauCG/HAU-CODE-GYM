@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mua Bán Xe C?</title>
+</head>
+<body>
+    <h1>Mua Bán Xe C?</h1>
+    <p>V?i ??c thù giao thông c?a Vi?t Nam, xe máy t?i Hà N?i v?n là l?a ch?n hàng ??u c?a ng??i dân. Bên c?nh nh?ng hãng xe ?ã quá quen thu?c ngày càng xu?t hi?n thêm nhi?u cái tên n?i b?t, t?o nên m?t th? tr??ng xe vô cùng sôi ??ng.
+    <br>
+        Ch? T?t Xe ???c bi?t ??n là chuyên trang mua bán xe tr?c tuy?n hàng ??u t?i Hà N?i, v?i l??ng truy c?p l?n, t?p trung nhi?u tin ??ng v?i ?a d?ng tùy ch?n, là n?i ?áng cân nh?c l?a ch?n khi có nhu c?u mua bán xe máy. Hãy cùng Ch? T?t Xe tr?i nghi?m các d?ch v? mua bán xe máy giá r? t?i Hà N?i nhé.
+    </p>
+    <ul>
+        <li>Táo</li>
+        <li>Chu?i</li>
+        <li>Cam</li>
+        <li>D?a h?u</li>
+    </ul>
+
+</body>
+</html>
